@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	background-color:red;
+}
+img{
+	width:200px;
+	height:200px;
+}
+.box{
+	background-color:white;
+	
+	
+}
+h5{
+	
+	text-align:center;
+	
+}
+h1{
+	background-color:#011e29;
+	color:white;
+	text-align:center;
+	
+}
+div{
+	align-item:center;
+}
+.main{
+	display:flex;
+}
