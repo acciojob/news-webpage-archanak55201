@@ -6,6 +6,7 @@ img{
 	width:100px;
 	height:100px;
 	padding:10px;
+	
 }
 .box{
 	
@@ -21,24 +22,25 @@ img{
 	padding:6px;
 	width:30vw
 }
-.pictorial-news-section{
-	display:flex;
-	flex-direction:column;
+.pictorial-news-section {
+	
+	
 	margin:5px;
 	border-radius:5px;
 	background-color:white;
 	padding:6px;
 	width:40vw;
 	justify-content:center;
+	
 }
 
 
-h5{
+h3{
 	
 	text-align:center;
 	
 }
-h1{
+header{
 	background-color:#011e29;
 	color:white;
 	text-align:center;
