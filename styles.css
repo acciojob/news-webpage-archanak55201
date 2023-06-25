@@ -3,26 +3,32 @@ body{
 	background-color:#f5f5f5;
 }
 img{
-	width:200px;
-	height:200px;
+	width:100px;
+	height:100px;
+	padding:10px;
 }
 .box{
-	margin:20px;
+	
 	border-radius:5px;
 	background-color:white;	
-	padding:10px;
+	padding:6px;
+	width:30vw
 }
 .latest-news-section{
-	margin:20px;
+	margin:5px;
 	border-radius:5px;
 	background-color:white;
-	padding:10px;
+	padding:6px;
+	width:30vw
 }
 .pictorial-news-section{
-	margin:20px;
+	display:flex;
+	flex-direction:column;
+	margin:5px;
 	border-radius:5px;
 	background-color:white;
-	padding:10px;
+	padding:6px;
+	width:40vw
 }
 
 
@@ -42,4 +48,5 @@ div{
 }
 .header{
 	display:flex;
+	justify-contrnt:space-evenly
 }
